@@ -19,7 +19,7 @@ git clone https://github.com/leanmac/calc-teste.git
 
 2. Instale as dependências:
 
-cd calculadora-react
+cd calc-teste
 npm install
 
 3. Execute o projeto:
