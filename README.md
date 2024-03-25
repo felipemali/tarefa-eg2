@@ -28,21 +28,21 @@ npm start
 
 4. Acesse a calculadora em seu navegador em [http://localhost:3000](http://localhost:3000)
 
-## Testes
+## Atividade - Testes
 
-Este projeto inclui testes automatizados usando Jest e React Testing Library para garantir o funcionamento correto da calculadora. Os seguintes casos de teste foram implementados:
+Este projeto NÃO inclui testes automatizados usando Jest e React Testing Library. Os seguintes casos de teste DEVEM SER implementados:
 
-1. Realiza cálculos corretamente:
+1. Realizar cálculos corretamente:
    - Testa se a adição funciona corretamente.
    - Testa se a subtração funciona corretamente.
    - Testa se a multiplicação funciona corretamente.
    - Testa se a divisão funciona corretamente.
    - Testa se a função de limpar funciona corretamente.
 
-2. Lida com divisão por zero corretamente:
+2. Lidar com divisão por zero corretamente:
    - Testa se a calculadora exibe corretamente a mensagem de erro ao tentar dividir por zero.
 
-3. Lida com operações inválidas corretamente:
+3. Lidar com operações inválidas corretamente:
    - Testa se a calculadora exibe corretamente a mensagem de erro ao realizar operações inválidas.
 
 ## Como Executar os Testes
