@@ -30,7 +30,7 @@ npm start
 
 ## Atividade - Testes
 
-Este projeto NÃO inclui testes automatizados usando Jest e React Testing Library. Os seguintes casos de teste DEVEM SER implementados:
+Este projeto **NÃO** inclui testes automatizados. Os seguintes casos de teste **DEVEM SER** implementados:
 
 1. Realizar cálculos corretamente:
    - Testa se a adição funciona corretamente.
@@ -44,11 +44,3 @@ Este projeto NÃO inclui testes automatizados usando Jest e React Testing Librar
 
 3. Lidar com operações inválidas corretamente:
    - Testa se a calculadora exibe corretamente a mensagem de erro ao realizar operações inválidas.
-
-## Como Executar os Testes
-
-Para executar os testes, você pode usar o seguinte comando:
-
-npm test
-
-Isso iniciará o Jest e executará todos os testes automatizados.
