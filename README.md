@@ -15,7 +15,7 @@ Este é um projeto de uma calculadora simples desenvolvida em React. A calculado
 
 1. Clone este repositório:
 
-git clone https://github.com/seu-usuario/calculadora-react.git
+git clone https://github.com/leanmac/calc-teste.git
 
 2. Instale as dependências:
 
